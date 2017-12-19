@@ -1,0 +1,3 @@
+Commands			Actions
+.q					quit the program
+.changeRec newName	Change the Recipient to newName
